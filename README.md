@@ -153,4 +153,6 @@ IT Infrastructure • Data • Systems
 
 [GitHub](https://github.com/IsaacA718) · [LinkedIn](https://www.linkedin.com/in/isaac-arikax718/)
 
+---
+
 <p align="center">Built to explore how data and machine learning can support better housing-price decisions.</p>
