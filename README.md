@@ -3,7 +3,7 @@
 <p align="center"><strong>Predicting Housing Prices Using Machine Learning</strong></p>
 
 <p align="center">
-  <a href=(https://colab.research.google.com/drive/19Lg9iMx-cDXiO4e34o7Xqwaqc4IQ1KfY?usp=sharing)>📓 Open in Google Colab</a> ·
+  <a href="[YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/19Lg9iMx-cDXiO4e34o7Xqwaqc4IQ1KfY?usp=sharing)">📓 Open in Google Colab</a> ·
   <a href="https://github.com/IsaacA718">👨‍💻 GitHub Profile</a>
 </p>
 
